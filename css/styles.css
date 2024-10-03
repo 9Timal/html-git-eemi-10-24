@@ -1,7 +1,17 @@
-git body {
+body {
     font-family: Arial, sans-serif;
     margin: 20px;
+    background-color: #64c37e;
     
+}
+h1{
+    color:#0000ff;
+}
+button{
+    background: #1c5be3
+}
+button:hover{
+    background: #1eb2c6
 }
 
 #task-list {
